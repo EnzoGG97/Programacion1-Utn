@@ -1,0 +1,18 @@
+mi_lista = [1, 3, 5, 7, 9, 11, 13, 40, 39, 73, 115]
+buscar = 40
+# 1 -Búsqueda lineal (el más simple)
+# busqueda = mi_lista.index(buscar)
+
+# print(f"Indice donde esta el numero 40: {busqueda}")
+
+#  2 -Buscar el índice de un valor
+
+# buscar2 = int(input("Ingrese el valor del cual quiere saber el indice: ")) # Pedimos al usuario que ingrese el numero deseado de la lista
+# busqueda2 = mi_lista.index(buscar2) # Buscamos el indice del numero pedido con .index
+
+# print(f"El indice del numero {buscar2} es: {busqueda2}")
+
+
+#  3 -Búsqueda binaria (requiere lista ordenada)
+
+
